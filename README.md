@@ -11,3 +11,7 @@ Three browser exercises for learning how TypeScript interacts with HTML and the 
 ## Run locally
 
 Open the calculator or mouse exercise's `index.html` to use its checked-in JavaScript. After changing TypeScript, run `tsc js/script.ts` from the exercise directory with the TypeScript compiler installed to rebuild the JavaScript beside the source.
+
+## License
+
+The [MIT License](LICENSE) covers MrEshrati's original exercise code and documentation. The bundled drag-and-drop image is outside this grant.
